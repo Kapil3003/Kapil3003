@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 3.  Robust Trading Strategy Development using Walk Forward Optimization [Github](https://github.com/Kapil3003/Quant_Project_3/blob/main/Project_3_StrategyDevelopment.ipynb)
 
-4.  Market Volatility Forecasting: An Comparative Study [Github](https://github.com/Kapil3003/Quant_Project_4/blob/main/Project_4_Volatility%20Forecasting.ipynb)
+4.  Market Volatility Forecasting: A Comparative Study [Github](https://github.com/Kapil3003/Quant_Project_4/blob/main/Project_4_Volatility%20Forecasting.ipynb)
 
 5.  Real-Time Options Chain Data Analysis Dashboard [Github](https://github.com/Kapil3003/Quant_Project_5) [[webApp]](https://quantproject5-gcs2rtyqub8wj8osxwegu2.streamlit.app/)
 
