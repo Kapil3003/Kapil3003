@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 
-# Portfolio of Projects
+# Portfolio
 
 
-## Data Science
+## Data Science Projects
 
 
 
