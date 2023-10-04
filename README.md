@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 4.  Market Volatility Forecasting: A Comparative Study [Github](https://github.com/Kapil3003/Quant_Project_4/blob/main/Project_4_Volatility%20Forecasting.ipynb)
 
-5.  Real-Time Options Chain Data Analysis Dashboard [Github]([https://github.com/Kapil3003/Quant_Project_5](https://github.com/Kapil3003/Quant_Project_5/blob/main/README.md)) [[webApp]](https://quantproject5-gcs2rtyqub8wj8osxwegu2.streamlit.app/)
+5.  Real-Time Options Chain Data Analysis Dashboard [Github]([https://github.com/Kapil3003/Quant_Project_5) [[webApp]](https://quantproject5-gcs2rtyqub8wj8osxwegu2.streamlit.app/)
 
 
