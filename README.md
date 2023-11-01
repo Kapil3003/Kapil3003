@@ -48,4 +48,6 @@ Here are some ideas to get you started:
 
 5.  Real-Time Options Chain Data Analysis Dashboard [Github](https://github.com/Kapil3003/Quant_Project_5/blob/main/README.md) [[webApp]](https://quantproject5-gcs2rtyqub8wj8osxwegu2.streamlit.app/)
 
+## Remote Sensing Projects
 
+1. Crop Monitoring using Vegetation Indices  [Github](https://github.com/Kapil3003/RemoteSensing_CropMonitoring)
